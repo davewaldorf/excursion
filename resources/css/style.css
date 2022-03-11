@@ -2,6 +2,7 @@
 body {
   font-family: Verdana;
   text-align: center;
+  background-color: black;
   color: white;
 }
 
@@ -31,4 +32,8 @@ h3 {
 h4 {
   text-align: right;
   color: gray;
+}
+
+.banner img {
+  margin-top: 2rem;
 }
